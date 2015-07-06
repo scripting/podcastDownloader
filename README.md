@@ -2,7 +2,7 @@
 
 JavaScript app to download all the enclosures in a <a href="https://github.com/scripting/river4">River4</a> river.
 
-### How to
+#### How to
 
 Edit config.json to point to the river file you want to download podasts from. By default it's set up to read podcasts from the <a href="http://podcatch.com/">podcatch.com</a> river <a href="http://rssforpodcatch.scripting.com/rivers/podcasts.js">file</a>. 
 
