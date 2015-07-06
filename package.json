@@ -1,0 +1,16 @@
+{
+	"name": "podcastRiverDownloader",
+	"description": "Downloads the MP3 files from the podcatch.com river.",
+	"author": "Dave Winer <dave@smallpicture.com>",
+	"version": "0.0.40",
+	"scripts": {
+		"start": "node downloader.js"
+			},
+	"dependencies" : {
+		"request": "*"
+		}, 
+	"license": "GPL",
+	"engines": {
+		"node": ">=0.10.x"
+		}
+	}

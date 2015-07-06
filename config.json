@@ -1,0 +1,8 @@
+{
+	"enabled": true,
+	"urlRiver": "http://rssforpodcatch.scripting.com/rivers/podcasts.js",
+	"folder": "podcatcher/",
+	"maxFileNameLength": 32,
+	"idsSeen": [
+		]
+	}
